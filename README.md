@@ -1,2 +1,2 @@
 # AutomationHackerrank
-automated hackerrank platform. Created javascript code using puppeteer which automatically submits c++ code from editorial to IDE and submits it.
+Automated hackerRank platform, by logging in and ceating new challenges automatically.
