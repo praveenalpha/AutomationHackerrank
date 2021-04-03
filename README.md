@@ -6,4 +6,5 @@
   <li> Multi threading in JavaScript </li>
   <br/>
   <br/>
+  </ul>
 <p>Automated hackerRank platform, by typing id and password automatically using puppeteer and clicking on editorial then copying solutions and pasting it to IDE and finally submitting the code.</p>
